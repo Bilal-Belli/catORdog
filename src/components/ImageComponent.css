@@ -1,0 +1,4 @@
+.selected {
+    border: 5px solid #79f395; /* Green border color */
+    transition: border 0.5s ease; /* Transition effect for the border */
+}
